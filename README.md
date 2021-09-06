@@ -1,10 +1,4 @@
 <table width="100%">
-	<thead width="100%">
-		<tr width="100%">
-			<td width="50%" align="center">Top Langs</td>
-			<td width="50%" align="center">GitHub stats</td>
-		</tr>
-	</thead>
 	<tbody>
 		<tr>
 			<td align="center">
