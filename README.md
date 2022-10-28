@@ -10,3 +10,7 @@
 		</tr>
 	</tbody>
 </table>
+
+<div>
+        <img src="https://devapp.sourc3.xyz/badges/chapati.png" />
+</div>
