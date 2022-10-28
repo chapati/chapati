@@ -12,5 +12,5 @@
 </table>
 
 <div>
-    <img src="https://devapp.sourc3.xyz/badges/chapati.png" width=650/>
+    <img src="https://devapp.sourc3.xyz/badges/chapati.png" width="650px"/>
 </div>
