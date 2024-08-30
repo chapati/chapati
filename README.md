@@ -1,3 +1,5 @@
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=chapati&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
 <table>
 	<tbody>
 		<tr>
